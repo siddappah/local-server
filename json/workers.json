@@ -1,0 +1,11 @@
+{
+  "workers": [
+    {
+      "type": "WT000000000001",
+      "nrOfFemales": 20,
+      "nrOfMales": 20,
+      "total": 40
+    }
+  ],
+  "workerTotal": 40
+}

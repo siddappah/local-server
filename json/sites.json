@@ -1,0 +1,83 @@
+{
+  "links": [
+    {
+      "rel": "saq-apply",
+      "href": "https://stage.sedexonline.com/org/api/orgs/ZC1071515/saq/appliedSites/ZS32374764"
+    },
+    {
+      "rel": "workers",
+      "href": "https://stage.sedexonline.com/org/api/orgs/ZC1071515/sites/ZS32374764/workers"
+    },
+    {
+      "rel": "upload-audit",
+      "href": "https://stage.sedexonline.com/audit/api/audits/intents/upload-audits"
+    },
+    {
+      "rel": "view-saq",
+      "href": "http://stage.sedexonline.com/saq/org/ZC1071515/site/ZS32374764"
+    },
+    {
+      "rel": "edit-site",
+      "href": "https://stage.sedexonline.com/org/api/orgs/ZC1071515/sites/ZS32374764"
+    }
+  ],
+  "content": {
+    "code": "ZS293145381",
+    "siteName": "Global SAQ test",
+    "organisationName": "_Sedex*Test_Chinese company for sunny",
+    "hasPurchasedItems": true,
+    "modifiedOn": null,
+    "countryCode": null,
+    "nameInLocalLanguage": "Sonata",
+    "businessLicenseNumber": "LIC0001",
+    "region": "Asia",
+    "supplierSiteRef": "SITE003",
+    "sedexSiteRef": "SITE004",
+    "businesslicenseExpDate": 1445577224466,
+    "contact": "hamp.krishna@gmail.com",
+    "useLabourProviders": false,
+    "hasBeenAudited": false,
+    "detailedProducts": "test product",
+    "hasRequestedRegistration": false,
+    "certifications": [
+      "CRT.13"
+    ],
+    "productionCapacity": "50",
+    "workers": {
+      "type": "WT000000000001",
+      "nrOfFemals": 1,
+      "nrOfMales": 1,
+      "total": 2
+    },
+    "functions": [
+      "SF000000000009",
+      "SF000000000002",
+      "SF000000000008",
+      "SF000000000001",
+      "SF000000000015"
+    ],
+    "sectorProfiles": [
+      "HEAVMANU",
+      "SERVPROV",
+      "INTERMEDI",
+      "BIGAGRI",
+      "MANUFACT"
+    ],
+    "address": {
+      "addressLine1": "adrees1",
+      "addressLine2": null,
+      "city": "Bangalore",
+      "countryCode": "AZ",
+      "postCode": "584128"
+    },
+    "productAreas": [
+      "50201700",
+      "50202500",
+      "50202700",
+      "50203000",
+      "50202800",
+      "50202300"
+    ],
+    "parentOrgStatus": "ACTIVE"
+  }
+}
